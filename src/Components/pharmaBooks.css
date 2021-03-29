@@ -1,0 +1,24 @@
+.itemPad{
+    padding: 0.2rem 1rem 0.2rem 0.2rem;
+}
+h5.Title,
+h6.AuthorName{
+    font-size: 70% ;
+    
+}
+
+
+.border{
+border: 1px;
+}
+.title,
+.authorName{
+font-weight: bold;
+}
+.Title,
+.AuthorName{
+    display: inline-flex;
+}
+.btn{
+    margin-left: 45px;
+}
